@@ -1,0 +1,36 @@
+Display welcome message
+1.1. Show application title and brief description of features
+Ask user for a location input
+2.1. Prompt user to enter a city name
+Fetch weather data from OpenWeatherMap API
+3.1. Construct API URL with location and API key
+3.2. Send request for current weather and 5-day forecast
+3.3. Parse JSON response into structured data
+3.4. If API request fails (e.g., network error), display error and prompt for retry
+If location not found:
+4.1. Display error message
+4.2. Prompt for another location and repeat Step 3
+Show menu options:
+Current weather
+Forecast
+Ask a weather question
+View temperature chart
+View rain chance chart
+View wind chart
+Change location
+Exit
+Depending on user's selection:
+6.1. If invalid choice, display error and prompt again
+6.2. Display relevant data using functions
+6.2.1. Format current weather as a table with temperature, humidity, etc.
+6.2.2. Format forecast with daily summaries and hourly highlights
+6.3. Ask a weather question
+6.3.1. Accept user input for a question
+6.3.2. Parse question to extract location, time period, and weather attribute
+6.3.3. Generate a natural language response based on weather data
+6.4. Or generate a visualisation
+6.4.1. Display chart in output (e.g., temperature bar chart, precipitation line graph)
+6.5. Change location
+6.5.1. Prompt for new location and repeat Step 3
+Repeat menu until user chooses to exit
+7.1. Note: In Colab, menu repetition may be manual or limited to separate cell executions

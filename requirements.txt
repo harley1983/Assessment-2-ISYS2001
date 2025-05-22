@@ -1,0 +1,7 @@
+requests
+matplotlib
+seaborn
+pandas
+numpy
+nltk
+pyinputplus

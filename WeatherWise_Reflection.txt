@@ -1,0 +1,13 @@
+Reflection – WeatherWise Advisor Project (ISYS2001)
+
+Developing the WeatherWise Advisor application has been a challenging yet deeply rewarding experience that helped me grow as both a programmer and a problem solver. This project taught me more than just Python syntax — it gave me a glimpse into how modern software is developed using APIs, visualization, modular design, and even artificial intelligence collaboration.
+
+At the start of the project, I felt overwhelmed by the many moving parts: fetching data from the OpenWeatherMap API, handling user input, parsing unpredictable JSON responses, managing errors, and visualizing results. Breaking the app into smaller pieces was the key. I used a modular approach and wrote helper functions to structure my code, making it easier to build up the functionality step-by-step. I also learned the importance of writing pseudocode to guide my logic, which saved me time during implementation.
+
+One of the most valuable parts of this experience was learning to use AI tools like ChatGPT and Claude for intentional prompting. Rather than simply asking for answers, I structured prompts to solve one small problem at a time — from fetching data and parsing responses, to building menu systems, writing natural language parsers, and fixing error messages. This taught me how to collaborate with AI effectively, and that thoughtful prompting can be just as important as the code itself. I documented each of these steps in my AI Prompting file, which now serves as a transparent journal of how I built the project.
+
+Throughout the process, I encountered several frustrating technical issues — like handling missing fields in the API, Python module import errors, and getting the app to run in both Google Colab and my Mac terminal. Instead of giving up, I used online documentation, tested fixes iteratively, and leaned on AI support when I got stuck. This experience reminded me that debugging is not a sign of failure, but part of the process of learning how software works in the real world.
+
+Finally, organizing and submitting my GitHub repository taught me how to present a real project professionally — with proper folders, commits, screenshots, documentation, and structure. Looking back, I’m proud of how much I accomplished. I started this assignment unsure I could complete it, and now I have a functional weather app that includes forecasting, charts, natural language interaction, and real-world API usage — all built from scratch.
+
+This project didn’t just improve my Python skills — it improved my confidence. I’ve learned that I can take on larger technical challenges, use AI responsibly, and build something useful from zero with the right mindset, strategy, and support.

@@ -22,7 +22,7 @@ To get a structured overview of the project components and functionalities, whic
 
 **Purpose:**  
 To generate the core function for fetching weather data, which is essential for the app's functionality.
-
+![](Picture2.png)
 ---
 
 ## Prompt 3: Parsing API Response
@@ -32,7 +32,7 @@ To generate the core function for fetching weather data, which is essential for 
 
 **Purpose:**  
 To ensure the app could handle various data formats and missing fields in the API response.
-
+![](Picture3.png)
 ---
 
 ## Prompt 4: User Input Handling
@@ -42,7 +42,7 @@ To ensure the app could handle various data formats and missing fields in the AP
 
 **Purpose:**  
 To make the app user-friendly and robust against invalid inputs.
-
+![](Picture4.png)
 ---
 
 ## Prompt 5: Natural Language Processing
@@ -52,7 +52,7 @@ To make the app user-friendly and robust against invalid inputs.
 
 **Purpose:**  
 To enable intelligent responses to user queries.
-
+![](Picture5.png)
 ---
 
 ## Prompt 6: Data Visualization
@@ -62,13 +62,14 @@ To enable intelligent responses to user queries.
 
 **Purpose:**  
 To improve the user experience by including data visualizations.
-
+![](Picture6.png)
 ---
 
 ## Prompt 7: Error Handling and Debugging
 
 **Prompt:**  
 "While developing my WeatherWise Advisor app, I encountered a KeyError when trying to access certain fields in the API response. Can you explain why this might happen and provide a code example that demonstrates how to handle such errors gracefully in Python?"
+![](Picture7.png)
 
 **Purpose:**  
 To ensure the application remains stable under unexpected conditions.

@@ -40,6 +40,7 @@ To ensure the app could handle various data formats and missing fields in the AP
 
 **Screenshot:**  
 ![Prompt 3](screenshots/prompt3_parsing_json.png)
+![Prompt 3](screenshots/prompt3.1.png)
 
 ---
 
@@ -92,5 +93,6 @@ To ensure the application remains stable under unexpected conditions.
 
 **Screenshot:**  
 ![Prompt 7](screenshots/prompt7_error_handling.png)
+![Prompt 7](screenshots/prompt7.1.png)
 
 ---

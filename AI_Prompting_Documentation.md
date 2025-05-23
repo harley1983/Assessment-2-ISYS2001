@@ -12,7 +12,7 @@ This file documents the structured prompts used during development of the **Weat
 **Purpose:**  
 To get a structured overview of the project components and functionalities, which helped in planning the development process.
 
-![Alt text](images/Picture1.png)
+![](Picture1.png)
 ---
 
 ## Prompt 2: Fetching Weather Data
